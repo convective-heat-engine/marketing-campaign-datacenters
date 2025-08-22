@@ -32,26 +32,52 @@ The CHE creates a closed-loop energy system where datacenter waste heat drives t
 
 ## System Configurations
 
-### Configuration A: Single CUT System
-**Application:** Small-medium datacenters (1-10 MW IT load)
-- **Cooling Capacity:** 2-15 MW thermal
-- **Tower Count:** 1-3 towers
-- **Footprint:** 0.5-2 hectares
-- **Power Generation:** 500kW-3MW
+### Configuration A: Basic Cooling-Only System (Minimum CAPEX)
+**Application:** Cost-optimized datacenter cooling replacement
+**Investment Profile:** Lowest capital expenditure option
+- **Cooling Capacity:** Complete replacement of traditional water cooling systems
+- **Energy Savings:** Eliminates 30-50% of facility power consumption (water cooling energy)
+- **Power Generation:** Minimal - focus on cooling efficiency
+- **ROI Timeline:** 3-5 years through cooling energy elimination
+- **Implementation:** Direct replacement of existing cooling infrastructure
 
-### Configuration B: Series-Connected CUT Array
-**Application:** Large datacenters (10-100 MW IT load)
-- **Cooling Capacity:** 15-150 MW thermal
-- **Tower Count:** 5-25 towers in series configuration
-- **Footprint:** 2-10 hectares
-- **Power Generation:** 3-30MW
+**Technical Specifications:**
+- **Tower Count:** Optimized for cooling load only
+- **Footprint:** 0.5-5 hectares depending on facility size
+- **CAPEX:** $1,000-2,000 per kW cooling capacity
+- **Operation:** Cooling-focused with basic thermal management
 
-### Configuration C: Parallel-Series Hybrid
-**Application:** Hyperscale datacenters (100+ MW IT load)
-- **Cooling Capacity:** 150+ MW thermal
-- **Tower Count:** 50-200 towers in optimized array
-- **Footprint:** 10-50 hectares
-- **Power Generation:** 30-200MW
+### Configuration B: Enhanced Power Generation System
+**Application:** Balanced cooling and power generation
+**Investment Profile:** Moderate capital expenditure with power generation
+- **Cooling Capacity:** Complete datacenter cooling coverage
+- **Energy Savings:** 30-50% facility power reduction plus additional power generation
+- **Power Generation:** 10-40% of total facility power needs
+- **ROI Timeline:** 4-6 years through combined savings and generation
+- **Implementation:** Integrated cooling and power system
+
+**Technical Specifications:**
+- **Tower Count:** Optimized array for dual cooling/generation
+- **Footprint:** 2-10 hectares depending on facility size
+- **CAPEX:** $2,000-4,000 per kW cooling capacity
+- **Operation:** Dual-mode cooling and power generation
+
+### Configuration C: Energy-Positive Geothermal Integration (Maximum CAPEX)
+**Application:** Complete energy independence with surplus generation
+**Investment Profile:** Highest capital expenditure - revolutionary energy solution
+- **Cooling Capacity:** Complete datacenter cooling coverage
+- **Energy Profile:** Net energy producer - datacenter becomes energy-positive
+- **Power Generation:** 100-150% of total facility power needs (surplus for grid/sale)
+- **ROI Timeline:** 5-8 years through complete energy independence plus revenue generation
+- **Implementation:** Integrated surface CHE with underground geothermal systems
+
+**Technical Specifications:**
+- **Surface Systems:** Full CHE array for cooling and atmospheric power generation
+- **Underground Integration:** Geothermal heat pump systems for enhanced energy extraction
+- **Combined Output:** Datacenter energy independence plus 20-50% surplus energy production
+- **Footprint:** 5-25 hectares for complete integrated system
+- **CAPEX:** $4,000-8,000 per kW facility capacity
+- **Operation:** Fully autonomous energy-positive datacenter ecosystem
 
 ## Performance Specifications
 

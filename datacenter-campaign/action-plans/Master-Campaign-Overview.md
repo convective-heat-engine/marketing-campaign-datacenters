@@ -44,22 +44,22 @@ datacenter-campaign/
 
 ### Week 1 Goals
 - [ ] 50+ LinkedIn connections with datacenter professionals
-- [ ] 15+ emails sent to target companies
-- [ ] 5+ phone calls made
-- [ ] 2+ meaningful responses received
-- [ ] 1+ meeting scheduled
+- [ ] 15+ emails sent about funding opportunity for CHE modeling
+- [ ] 5+ phone calls made regarding research funding
+- [ ] 2+ meaningful responses received about funding/partnership
+- [ ] 1+ meeting scheduled to discuss funding needs
 
 ### Week 2 Goals  
 - [ ] 100+ total LinkedIn connections
-- [ ] 1+ technical presentation delivered
-- [ ] 1+ pilot site discussion initiated
-- [ ] 3+ follow-up meetings scheduled
+- [ ] 1+ funding presentation delivered to potential partners
+- [ ] 1+ technical validation discussion with engineering teams
+- [ ] 3+ follow-up meetings scheduled for funding discussions
 
 ### Month 1 Goals
 - [ ] 200+ professional connections established
-- [ ] 5+ serious pilot discussions
-- [ ] 2+ formal pilot proposals submitted
-- [ ] 1+ partnership agreement in negotiation
+- [ ] 5+ serious funding discussions initiated
+- [ ] 2+ formal research funding proposals submitted
+- [ ] 1+ modeling/validation partnership agreement in negotiation
 
 ## 💰 Budget & Investment
 
@@ -75,9 +75,9 @@ datacenter-campaign/
 - **Total: $5,000-10,000**
 
 ### Expected ROI
-- **Target:** 1 pilot contract worth $15-50M
-- **Break-even:** First meeting that leads to pilot discussion
-- **Investment payback:** 1-3 months
+- **Target:** 1 modeling/validation funding agreement worth $2-5M
+- **Break-even:** First meeting that leads to serious funding discussion
+- **Investment payback:** 1-6 months to secure validation funding
 
 ## 📞 Emergency Contact Directory
 
@@ -97,6 +97,11 @@ datacenter-campaign/
 - **CEO:** Sundar Pichai (@sundarpichai)
 - **Main:** 1-650-253-0000
 - **Email:** press@google.com
+
+### Meta/Facebook
+- **CEO:** Mark Zuckerberg (@zuck)
+- **Main:** 1-650-543-4800
+- **Email:** press@meta.com
 
 ## 📧 Ready-to-Send Email Templates
 
@@ -140,11 +145,14 @@ datacenter-campaign/
 3. **Technical Questions:** Provide detailed technical specifications
 4. **Budget Questions:** Present financial models and ROI analysis
 
-### From Meeting to Pilot
-1. **Needs Assessment:** Understand their specific challenges
-2. **Custom Proposal:** Tailor pilot program to their requirements
-3. **Site Selection:** Identify optimal facilities for deployment
-4. **Success Metrics:** Define clear KPIs and measurement criteria
+### From Meeting to Technical Discussion
+1. **Needs Assessment:** Understand their specific infrastructure challenges
+2. **Configuration Options:** Present three CAPEX levels based on their goals:
+   - **Basic Cooling:** Minimum investment, eliminates all cooling energy costs
+   - **Enhanced Generation:** Moderate investment, adds power generation capability
+   - **Energy-Positive:** Maximum investment, complete energy independence with surplus
+3. **Custom Proposal:** Tailor solution to their specific requirements and risk tolerance
+4. **Technical Deep Dive:** Advanced configurations technical appendix for serious discussions
 
 ## 🚨 Common Mistakes to Avoid
 

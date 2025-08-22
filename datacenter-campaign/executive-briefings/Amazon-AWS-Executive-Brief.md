@@ -5,10 +5,10 @@
 As AWS maintains its position as the world's largest cloud provider with 32 regions and 102 availability zones, the exponential growth in AI workloads presents both unprecedented opportunity and operational challenges. The Convective Heat Engine (CHE) offers AWS a transformative cooling solution that can reduce operational costs by $1-2B annually while supporting your Climate Pledge commitment to net-zero carbon by 2040.
 
 **Strategic Value Proposition:**
-- Complete energy self-sufficiency - datacenters power themselves using waste heat
-- Water-positive operations - generate surplus water enabling ecosystem restoration
-- Desert greening capability - transform arid regions into carbon-sequestering oases
-- Revolutionary cost structure - eliminate energy expenses while generating ecosystem revenue
+- Elimination of water cooling energy costs (30-50% of total facility power)
+- Dramatic reduction in water consumption through innovative heat management
+- Potential for waste heat recovery and ecosystem restoration projects
+- Theoretical validation by Professor Ira M. Katz (published fluid mechanics expert)
 
 ## Critical Business Context
 
@@ -20,7 +20,7 @@ As AWS maintains its position as the world's largest cloud provider with 32 regi
 
 ### AWS-Specific Pressures
 - **Scale Impact:** 15,000+ MW total capacity amplifies efficiency gains
-- **Cost Pressure:** $3-5B annual cooling costs across global infrastructure
+- **Cost Pressure:** $500M-1.5B annual water cooling costs across global infrastructure (30-50% of energy)
 - **Sustainability Commitments:** Climate Pledge requires 65% emissions reduction by 2030
 - **Customer Demands:** Enterprise customers increasingly selecting providers based on sustainability
 
@@ -38,9 +38,9 @@ The CHE revolutionizes datacenter cooling by harnessing natural atmospheric ther
 ### AWS Fleet Transformation Potential
 
 #### 1. Transformational Economic Model
-- **Energy Independence:** $5-15B annual elimination of energy costs across AWS fleet
-- **Water Revenue Generation:** $500M-2B annual revenue from surplus water and ecosystem services
-- **Infrastructure Revolution:** 95% reduction in external utility dependencies
+- **Cooling Cost Elimination:** $500M-1.5B annual savings from water cooling energy elimination
+- **Water Usage Reduction:** Dramatic decrease in water consumption and associated infrastructure costs
+- **Operational Efficiency:** Significant reduction in traditional cooling system dependencies
 
 #### 2. Climate Pledge Breakthrough
 - **Carbon Negative Operations:** Datacenters become massive carbon sinks through ecosystem restoration
@@ -153,7 +153,7 @@ The CHE revolutionizes datacenter cooling by harnessing natural atmospheric ther
 
 The Convective Heat Engine represents a transformational opportunity for AWS to simultaneously achieve operational excellence, cost leadership, and sustainability differentiation. The technology aligns perfectly with AWS's scale, climate commitments, and operational sophistication.
 
-**Recommended Action:** Approve $50M pilot program to deploy CHE at 3 strategically selected AWS facilities, with clear success criteria for fleet-wide deployment decision within 18 months.
+**Recommended Action:** Approve $3-5M funding for comprehensive CHE modeling and validation study with theoretical foundation from Professor Ira M. Katz. This will enable informed pilot deployment decisions for AWS's global infrastructure within 18 months.
 
 This investment positions AWS to maintain market leadership while transforming the economics and environmental impact of cloud infrastructure at unprecedented scale.
 
